@@ -1,0 +1,10 @@
+Note to self
+
+Since the urls are /users and /microposts you need to do this after the domain name of the app!!
+
+The domain that its saved as is http://railstutorial-ch2-6-27-2014.herokuapp.com/
+
+BUT you need to put /users or /microposts afterwards to get to the working page!!!
+
+http://railstutorial-ch2-6-27-2014.herokuapp.com/users
+http://railstutorial-ch2-6-27-2014.herokuapp.com/microposts
